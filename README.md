@@ -1,10 +1,10 @@
 ### Hi, I'm Franki (she/her). 
-Web designer and digital artist, sharing my work of generative art and digital experiences -> [https://www.instagram.com/furdakfurdak/]
+Web designer and digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
 
-Currently, I am a tech trainee at La Fosse Academy, learning full-stack development.
+_Currently, I am a tech trainee at La Fosse Academy, learning full-stack development._
 
 
-[Website] https://francescalily.github.io/
+https://francescalily.github.io/
 
 <!--
 **francescalily/francescalily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
