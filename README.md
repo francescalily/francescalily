@@ -1,5 +1,5 @@
 ### Hi, I'm Franki (she/her). 
-Web designer and digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
+Digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
 
 _Currently, I am a tech trainee at La Fosse Academy, learning full-stack development._
 
