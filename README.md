@@ -4,7 +4,7 @@ Digital artist, sharing my work of generative art and digital experiences -> htt
 _Currently, I am a tech trainee at La Fosse Academy, learning full-stack development._
 
 
-https://francescalily.github.io/
+https://francescacallard.netlify.app/
 
 <!--
 **francescalily/francescalily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
