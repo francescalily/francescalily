@@ -4,7 +4,7 @@ _AI Technologist at News UK._
 Digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
 
 
-https://francescacallard.netlify.app/
+
 
 <!--
 **francescalily/francescalily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
