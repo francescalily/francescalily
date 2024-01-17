@@ -1,7 +1,7 @@
 ### Hi, I'm Franki (she/her). 
 Digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
 
-_Currently, I am a tech trainee at La Fosse Academy, learning full-stack development._
+_AI Technologist at News UK._
 
 
 https://francescacallard.netlify.app/
