@@ -1,7 +1,7 @@
 ### Hi, I'm Franki (she/her). 
-Digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
-
 _AI Technologist at News UK._
+
+Digital artist, sharing my work of generative art and digital experiences -> https://www.instagram.com/furdakfurdak/
 
 
 https://francescacallard.netlify.app/
